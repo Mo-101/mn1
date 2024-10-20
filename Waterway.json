@@ -1,0 +1,125 @@
+{
+    "@xmlns": "http://www.opengis.net/kml/2.2",
+    "@xmlns:gx": "http://www.google.com/kml/ext/2.2",
+    "@xmlns:kml": "http://www.opengis.net/kml/2.2",
+    "@xmlns:atom": "http://www.w3.org/2005/Atom",
+    "@hint": "target=sky",
+    "kml:Document": {
+      "kml:name": "WATERWAY.kml",
+      "kml:Style": [
+        {
+          "@id": "s_ylw-pushpin_hl",
+          "kml:IconStyle": {
+            "kml:scale": 1.3,
+            "kml:Icon": {
+              "kml:href": "https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "kml:hotSpot": {
+              "@x": 20,
+              "@y": 2,
+              "@xunits": "pixels",
+              "@yunits": "pixels"
+            }
+          }
+        },
+        {
+          "@id": "s_ylw-pushpin",
+          "kml:IconStyle": {
+            "kml:scale": 1.1,
+            "kml:Icon": {
+              "kml:href": "https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "kml:hotSpot": {
+              "@x": 20,
+              "@y": 2,
+              "@xunits": "pixels",
+              "@yunits": "pixels"
+            }
+          }
+        }
+      ],
+      "kml:StyleMap": {
+        "@id": "m_ylw-pushpin",
+        "kml:Pair": [
+          {
+            "kml:key": "normal",
+            "kml:styleUrl": "#s_ylw-pushpin"
+          },
+          {
+            "kml:key": "highlight",
+            "kml:styleUrl": "#s_ylw-pushpin_hl"
+          }
+        ]
+      },
+      "kml:Placemark": {
+        "kml:name": "WAIERWAY",
+        "kml:Camera": {
+          "kml:longitude": 6.417123138,
+          "kml:latitude": 5.028286119,
+          "kml:altitude": 18556.0302,
+          "kml:heading": 19.01753325,
+          "kml:tilt": 67.18875291,
+          "kml:roll": 0.50925886,
+          "gx:altitudeMode": "relativeToSeaFloor"
+        },
+        "kml:styleUrl": "#m_ylw-pushpin",
+        "kml:MultiGeometry": {
+          "kml:LineString": [
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "6.424157372136121,5.318843887161867,0"
+            },
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "6.537453936588857,5.540650148767145,0"
+            },
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "6.643336016062628,5.760041835692795,0"
+            },
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "6.708656233467448,5.961895227004056,0"
+            },
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "6.703405176702757,6.386120191887645,0"
+            },
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "6.623389236883548,6.815866666924364,0"
+            },
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "6.678645888600407,7.00683359376502,0"
+            },
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "6.686294312459101,7.290236750974475,0"
+            },
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "6.775162728737305,7.830791364325333,0"
+            },
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "7.149992014975277,7.972408360299896,0"
+            },
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "6.763790997208014,8.080483212391973,0"
+            },
+            {
+              "kml:tessellate": 1,
+              "kml:coordinates": "6.364919228312854,8.670369137636683,0"
+            }
+          ],
+          "kml:Point": {
+            "gx:drawOrder": 1,
+            "kml:coordinates": "6.424157372136121,5.318843887161867,0"
+          }
+        }
+      }
+    }
+  }
+  

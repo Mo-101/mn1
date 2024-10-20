@@ -1,0 +1,1797 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.507833481,
+                    7.539666653
+                ]
+            },
+            "properties": {
+                "gbifID": 4424810776,
+                "Locality": "Abogboro",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.653166771,
+                    7.70666647
+                ]
+            },
+            "properties": {
+                "gbifID": 4424810518,
+                "Locality": "Esira",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.61833334,
+                    7.687666893
+                ]
+            },
+            "properties": {
+                "gbifID": 4424810462,
+                "Locality": "Kako",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.616666794,
+                    7.683333397
+                ]
+            },
+            "properties": {
+                "gbifID": 4424810220,
+                "Locality": "Kako",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.91916656,
+                    8.821166992
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809922,
+                "Locality": "Mayo Ranewo",
+                "Country": "Nigeria",
+                "StateProvince": "Taraba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.103000164,
+                    6.738166809
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809823,
+                "Locality": "Ekpoma",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.399999619,
+                    7.633333206
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809772,
+                "Locality": "Onmba-Abena",
+                "Country": "Nigeria",
+                "StateProvince": "Benue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.399999619,
+                    7.633333206
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809770,
+                "Locality": "Onmba-Abena",
+                "Country": "Nigeria",
+                "StateProvince": "Benue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.399999619,
+                    7.633333206
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809768,
+                "Locality": "Onmba-Abena",
+                "Country": "Nigeria",
+                "StateProvince": "Benue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.399999619,
+                    7.633333206
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809766,
+                "Locality": "Onmba-Abena",
+                "Country": "Nigeria",
+                "StateProvince": "Benue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.616666794,
+                    7.683333397
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809764,
+                "Locality": "Kako",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.088833332,
+                    6.770500183
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809746,
+                "Locality": "Eguare Egoro",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.09666634,
+                    7.088500023
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809685,
+                "Locality": "Ngel Nyaki",
+                "Country": "Nigeria",
+                "StateProvince": "Taraba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.404000282,
+                    7.638000011
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809661,
+                "Locality": "Onmba Abena",
+                "Country": "Nigeria",
+                "StateProvince": "Benue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.683333397,
+                    6.316666603
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809560,
+                "Locality": "Ogba Forest Reserve 4",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.683333397,
+                    6.316666603
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809533,
+                "Locality": "Ogba Forest Reserve 3",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.683333397,
+                    6.316666603
+                ]
+            },
+            "properties": {
+                "gbifID": 4424809528,
+                "Locality": "Ogba Forest Reserve 2",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.102833271,
+                    6.738166809
+                ]
+            },
+            "properties": {
+                "gbifID": 4424807594,
+                "Locality": "Ekpoma",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403833389,
+                    7.637833118
+                ]
+            },
+            "properties": {
+                "gbifID": 4424807593,
+                "Locality": "Onmba-Abena",
+                "Country": "Nigeria",
+                "StateProvince": "Benue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.91916656,
+                    8.821166992
+                ]
+            },
+            "properties": {
+                "gbifID": 4424807592,
+                "Locality": "Mayo-Ranewo",
+                "Country": "Nigeria",
+                "StateProvince": "Taraba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0878334,
+                    7.08833313
+                ]
+            },
+            "properties": {
+                "gbifID": 4424807591,
+                "Locality": "Ngel-Nyaki",
+                "Country": "Nigeria",
+                "StateProvince": "Taraba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.088666439,
+                    6.77033329
+                ]
+            },
+            "properties": {
+                "gbifID": 4424807584,
+                "Locality": "Eguare-Egoro",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.63166666,
+                    7.687666893
+                ]
+            },
+            "properties": {
+                "gbifID": 4424807581,
+                "Locality": "Kako",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.653166771,
+                    7.70666647
+                ]
+            },
+            "properties": {
+                "gbifID": 4424807580,
+                "Locality": "Esira",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.507833481,
+                    7.539666653
+                ]
+            },
+            "properties": {
+                "gbifID": 4424807579,
+                "Locality": "Abagboro",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.791000366,
+                    8.141666412
+                ]
+            },
+            "properties": {
+                "gbifID": 4424807568,
+                "Locality": "Keana",
+                "Country": "Nigeria",
+                "StateProvince": "Nasarawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.788167,
+                    9.72416687
+                ]
+            },
+            "properties": {
+                "gbifID": 4424805127,
+                "Locality": "Vom",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.18999958,
+                    10.60766697
+                ]
+            },
+            "properties": {
+                "gbifID": 4424804992,
+                "Locality": "Biu",
+                "Country": "Nigeria",
+                "StateProvince": "Borno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.788167,
+                    9.72416687
+                ]
+            },
+            "properties": {
+                "gbifID": 4424804321,
+                "Locality": "Vom",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68999958,
+                    9.854999542
+                ]
+            },
+            "properties": {
+                "gbifID": 4424804253,
+                "Locality": "Miango",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.483333588,
+                    7.716666698
+                ]
+            },
+            "properties": {
+                "gbifID": 4424797899,
+                "Locality": "Modern market",
+                "Country": "Nigeria",
+                "StateProvince": "Benue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.533333778,
+                    7.75
+                ]
+            },
+            "properties": {
+                "gbifID": 4424797892,
+                "Locality": "North bank",
+                "Country": "Nigeria",
+                "StateProvince": "Benue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5,
+                    7.733333111
+                ]
+            },
+            "properties": {
+                "gbifID": 4424797775,
+                "Locality": "Wadata",
+                "Country": "Nigeria",
+                "StateProvince": "Benue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.533333778,
+                    7.716666698
+                ]
+            },
+            "properties": {
+                "gbifID": 4424797764,
+                "Locality": "Wurukum",
+                "Country": "Nigeria",
+                "StateProvince": "Benue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.533333778,
+                    7.699999809
+                ]
+            },
+            "properties": {
+                "gbifID": 4424797756,
+                "Locality": "Logo",
+                "Country": "Nigeria",
+                "StateProvince": "Benue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.719499588,
+                    9.951833725
+                ]
+            },
+            "properties": {
+                "gbifID": 4424797697,
+                "Locality": "Rukuba",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.444999695,
+                    9.321833611
+                ]
+            },
+            "properties": {
+                "gbifID": 4424797675,
+                "Locality": "Ner-Pankshin",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.903166771,
+                    9.819167137
+                ]
+            },
+            "properties": {
+                "gbifID": 4424797629,
+                "Locality": "Du",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.788000107,
+                    9.138333321
+                ]
+            },
+            "properties": {
+                "gbifID": 4424797582,
+                "Locality": "Langtang",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.444999695,
+                    9.321833611
+                ]
+            },
+            "properties": {
+                "gbifID": 4424797572,
+                "Locality": "Ner-Pankshin",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.616666794,
+                    6.333333492
+                ]
+            },
+            "properties": {
+                "gbifID": 4424796116,
+                "Locality": "Benin",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.133333206,
+                    6.75
+                ]
+            },
+            "properties": {
+                "gbifID": 4424796105,
+                "Locality": "Ekpoma",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.533333302,
+                    7.183333397
+                ]
+            },
+            "properties": {
+                "gbifID": 4424796084,
+                "Locality": "Uromi",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.666666508,
+                    5.900000095
+                ]
+            },
+            "properties": {
+                "gbifID": 4424796036,
+                "Locality": "Auchi",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.566666603,
+                    7.766666889
+                ]
+            },
+            "properties": {
+                "gbifID": 4424793059,
+                "Locality": "Osogbo",
+                "Country": "Nigeria",
+                "StateProvince": "Osun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.266666889,
+                    8.133333206
+                ]
+            },
+            "properties": {
+                "gbifID": 4424793046,
+                "Locality": "Ogbomoso",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.550000191,
+                    8.5
+                ]
+            },
+            "properties": {
+                "gbifID": 4424793033,
+                "Locality": "Ilorin",
+                "Country": "Nigeria",
+                "StateProvince": "Kwara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.116666794,
+                    7.333333492
+                ]
+            },
+            "properties": {
+                "gbifID": 4424792879,
+                "Locality": "Asejire",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.566666603,
+                    7.466666698
+                ]
+            },
+            "properties": {
+                "gbifID": 4424792872,
+                "Locality": "Ife",
+                "Country": "Nigeria",
+                "StateProvince": "Osun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.883333445,
+                    7.383333206
+                ]
+            },
+            "properties": {
+                "gbifID": 4424792077,
+                "Locality": "Aroro_Igbo-Oloyin",
+                "Country": "Nigeria",
+                "StateProvince": "Osun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    9.45
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853427,
+                "Locality": "Yankari Game Reserve, near Bauchi",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    9.45
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853414,
+                "Locality": "Yankari Game Reserve, near Bauchi",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.32,
+                    7.26
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853407,
+                "Locality": "Olokomeji Forest Reserve",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.12,
+                    8.0
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853400,
+                "Locality": "Oke-Iho",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5,
+                    9.15
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853396,
+                "Locality": "Kishi",
+                "Country": "Nigeria",
+                "StateProvince": "Kwara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    9.45
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853387,
+                "Locality": "Yankari Game Reserve, near Bauchi",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5,
+                    9.15
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853386,
+                "Locality": "Kishi",
+                "Country": "Nigeria",
+                "StateProvince": "Kwara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.05,
+                    7.5
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853382,
+                "Locality": "Kabba",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09,
+                    11.51
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853374,
+                "Locality": "Maiduguri",
+                "Country": "Nigeria",
+                "StateProvince": "Borno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    9.45
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853373,
+                "Locality": "Yankari Game Reserve, near Bauchi",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.25,
+                    9.54
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853370,
+                "Locality": "Wawa",
+                "Country": "Nigeria",
+                "StateProvince": "Kwara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    9.45
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853368,
+                "Locality": "Yankari Game Reserve, near Bauchi",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.06,
+                    7.39
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853366,
+                "Locality": "Oba Hills Forest Reserve",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.58,
+                    7.33
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853363,
+                "Locality": "Igbo Oloyin, 10 mi N Ibadan",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.06,
+                    8.09
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853359,
+                "Locality": "Omu-Aran",
+                "Country": "Nigeria",
+                "StateProvince": "Kwara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    9.45
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853357,
+                "Locality": "Yankari Game Reserve, near Bauchi",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.25,
+                    9.54
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853356,
+                "Locality": "Wawa",
+                "Country": "Nigeria",
+                "StateProvince": "Kwara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.25,
+                    9.54
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853351,
+                "Locality": "Wawa",
+                "Country": "Nigeria",
+                "StateProvince": "Kwara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    9.45
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853348,
+                "Locality": "Yankari Game Reserve, near Bauchi",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.05,
+                    7.5
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853347,
+                "Locality": "Kabba",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.12,
+                    8.0
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853345,
+                "Locality": "Oke-Iho",
+                "Country": "Nigeria",
+                "StateProvince": "Oyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.32,
+                    7.26
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853343,
+                "Locality": "Olokomeji Forest Reserve",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.25,
+                    9.54
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853335,
+                "Locality": "Wawa",
+                "Country": "Nigeria",
+                "StateProvince": "Kwara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07,
+                    7.41
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853332,
+                "Locality": "Igangan Forest Reserve",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.25,
+                    9.54
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853325,
+                "Locality": "Wawa",
+                "Country": "Nigeria",
+                "StateProvince": "Kwara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.06,
+                    8.09
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853322,
+                "Locality": "Omu-Aran",
+                "Country": "Nigeria",
+                "StateProvince": "Kwara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    9.45
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853320,
+                "Locality": "Yankari Game Reserve, near Bauchi",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09,
+                    11.51
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853318,
+                "Locality": "Maiduguri",
+                "Country": "Nigeria",
+                "StateProvince": "Borno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.54,
+                    7.23
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853316,
+                "Locality": "Ibadan, University of Ibadan",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    9.45
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853314,
+                "Locality": "Yankari Game Reserve, near Bauchi",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17,
+                    7.26
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853310,
+                "Locality": "Igbo-Ora",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.58,
+                    7.33
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853303,
+                "Locality": "Igbo Oloyin, 10 mi N Ibadan",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.32,
+                    7.26
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853299,
+                "Locality": "Olokomeji Forest Reserve",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.58,
+                    7.33
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853297,
+                "Locality": "Igbo Oloyin, 10 mi N Ibadan",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.05,
+                    7.5
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853293,
+                "Locality": "Kabba",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.05,
+                    7.5
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853292,
+                "Locality": "Kabba",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.05,
+                    7.5
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853283,
+                "Locality": "Kabba",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.05,
+                    7.5
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853280,
+                "Locality": "Kabba",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.32,
+                    7.26
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853276,
+                "Locality": "Olokomeji Forest Reserve",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17,
+                    7.26
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853274,
+                "Locality": "Igbo-Ora",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07,
+                    7.41
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853272,
+                "Locality": "Igangan Forest Reserve",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3,
+                    9.45
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853259,
+                "Locality": "Yankari Game Reserve, near Bauchi",
+                "Country": "Nigeria",
+                "StateProvince": "Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.54,
+                    7.23
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853258,
+                "Locality": "Ibadan",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.58,
+                    7.33
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853250,
+                "Locality": "Igbo Oloyin, 10 mi N Ibadan",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.05,
+                    7.5
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853247,
+                "Locality": "Kabba",
+                "Country": "Nigeria",
+                "StateProvince": "Edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09,
+                    11.51
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853246,
+                "Locality": "Maiduguri",
+                "Country": "Nigeria",
+                "StateProvince": "Borno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.32,
+                    7.26
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853242,
+                "Locality": "Olokomeji Forest Reserve",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.53,
+                    7.23
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853239,
+                "Locality": "Aroro, 10 mi N Ibadan",
+                "Country": "Nigeria",
+                "StateProvince": "Ogun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31,
+                    8.14
+                ]
+            },
+            "properties": {
+                "gbifID": 1919853215,
+                "Locality": "Egbe",
+                "Country": "Nigeria",
+                "StateProvince": "Kwara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.083333333,
+                    6.233333333
+                ]
+            },
+            "properties": {
+                "gbifID": 1919729866,
+                "Locality": "Mamu River Forest Reserve, 40 miles West of Enugu",
+                "Country": "Nigeria",
+                "StateProvince": "Anambra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.083333333,
+                    6.233333333
+                ]
+            },
+            "properties": {
+                "gbifID": 1919729843,
+                "Locality": "Mamu River Forest Reserve, 40 miles West of Enugu",
+                "Country": "Nigeria",
+                "StateProvince": "Anambra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.083333333,
+                    6.233333333
+                ]
+            },
+            "properties": {
+                "gbifID": 1919729822,
+                "Locality": "Mamu River Forest Reserve, 40 miles West of Enugu",
+                "Country": "Nigeria",
+                "StateProvince": "Anambra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.083333333,
+                    6.233333333
+                ]
+            },
+            "properties": {
+                "gbifID": 1919729805,
+                "Locality": "Mamu River Forest Reserve, 40 miles West of Enugu",
+                "Country": "Nigeria",
+                "StateProvince": "Anambra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5667,
+                    7.7667
+                ]
+            },
+            "properties": {
+                "gbifID": 183748713,
+                "Locality": "Oshogbo",
+                "Country": "Nigeria",
+                "StateProvince": "Osun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5667,
+                    7.7667
+                ]
+            },
+            "properties": {
+                "gbifID": 183748712,
+                "Locality": "Oshogbo",
+                "Country": "Nigeria",
+                "StateProvince": "Osun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5667,
+                    7.7667
+                ]
+            },
+            "properties": {
+                "gbifID": 183748711,
+                "Locality": "Oshogbo",
+                "Country": "Nigeria",
+                "StateProvince": "Osun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5667,
+                    7.7667
+                ]
+            },
+            "properties": {
+                "gbifID": 183748710,
+                "Locality": "Oshogbo",
+                "Country": "Nigeria",
+                "StateProvince": "Osun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3833,
+                    10.15
+                ]
+            },
+            "properties": {
+                "gbifID": 183745290,
+                "Locality": "Nono",
+                "Country": "Nigeria",
+                "StateProvince": "Gombe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7333333,
+                    11.0166667
+                ]
+            },
+            "properties": {
+                "gbifID": 1211819427,
+                "Locality": "Kagoro",
+                "Country": "Nigeria",
+                "StateProvince": "Kaduna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7333333,
+                    11.0166667
+                ]
+            },
+            "properties": {
+                "gbifID": 1211819331,
+                "Locality": "Kagoro",
+                "Country": "Nigeria",
+                "StateProvince": "Kaduna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9333333,
+                    7.3833333
+                ]
+            },
+            "properties": {
+                "gbifID": 1211815891,
+                "Locality": "30 mi S of Ibadan",
+                "Country": "Nigeria",
+                "StateProvince": "Ibadan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0666667,
+                    6.2833333
+                ]
+            },
+            "properties": {
+                "gbifID": 1211814049,
+                "Locality": "Abakaliki",
+                "Country": "Nigeria",
+                "StateProvince": "Ebonyi"
+            }
+        }
+    ]
+}
